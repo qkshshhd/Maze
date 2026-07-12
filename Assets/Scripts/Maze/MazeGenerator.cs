@@ -9,7 +9,10 @@ namespace Maze
         public int width = 21;
 
         public Vector2Int startPosition = new Vector2Int(1, 1);
+
         public GameObject wall;
+        public GameObject player;
+        public GameObject goal;
 
         private int[,] _map;
 
@@ -23,10 +26,26 @@ namespace Maze
 
         private void Start()
         {
-            if (GenerateMaze())
-            {
-                GenerateMazeObject();
-            }
+            if (!GenerateMaze())
+                return;
+
+            GenerateMazeObject();
+
+            Instantiate(
+                player,
+                new Vector3(startPosition.x, startPosition.y, 0f),
+                Quaternion.identity,
+                transform
+            );
+
+            Vector2Int goalPosition = new Vector2Int(width - 2, height - 2);
+
+            Instantiate(
+                goal,
+                new Vector3(goalPosition.x, goalPosition.y, 0f),
+                Quaternion.identity,
+                transform
+            );
         }
 
         private void GenerateMazeObject()

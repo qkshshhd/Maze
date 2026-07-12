@@ -16,6 +16,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraFollow2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Maze/MazeGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -23,70 +27,70 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0000000000078935" />
-      <entry key="S30" value="1.00077217564342" />
-      <entry key="S60" value="1.1492366370246787" />
-      <entry key="M2" value="3.8670930994487565" />
-      <entry key="M5" value="21.547546894280412" />
-      <entry key="M10" value="42.327427065024054" />
-      <entry key="M15" value="53.42685094525123" />
-      <entry key="M30" value="67.67283112008197" />
-      <entry key="H1" value="76.25753722144502" />
-      <entry key="H2" value="80.97441216034612" />
-      <entry key="H4" value="83.44734005878689" />
-      <entry key="D1" value="85.56890780427385" />
-      <entry key="W1" value="85.93827557688982" />
+      <entry key="MS100" value="2.3775343395901234" />
+      <entry key="MS500" value="3.100093973416086" />
+      <entry key="S2" value="5.460402888297286" />
+      <entry key="S5" value="7.157746116737817" />
+      <entry key="S10" value="7.986218160441988" />
+      <entry key="S30" value="8.970979868756892" />
+      <entry key="S60" value="9.970757870602004" />
+      <entry key="M2" value="11.133958099255114" />
+      <entry key="M5" value="16.047591421402128" />
+      <entry key="M10" value="31.62679664935223" />
+      <entry key="M15" value="46.280881816071464" />
+      <entry key="M30" value="73.09300226302807" />
+      <entry key="H1" value="94.15796624932634" />
+      <entry key="H2" value="107.44227813956743" />
+      <entry key="H4" value="114.91326385000447" />
+      <entry key="D1" value="121.60727325667652" />
+      <entry key="W1" value="122.79990895315132" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.2828832823695668E-231" />
-      <entry key="S2" value="1.8925474913406555E-58" />
-      <entry key="S5" value="8.143642771092413E-24" />
-      <entry key="S10" value="2.853761439498512E-12" />
-      <entry key="S30" value="1.479674505089447E-4" />
-      <entry key="S60" value="0.01571067216068283" />
-      <entry key="M2" value="0.21065851470107022" />
-      <entry key="M5" value="1.1746913448811698" />
-      <entry key="M10" value="2.1501555619550454" />
-      <entry key="M15" value="2.6396867083657543" />
-      <entry key="M30" value="3.246510612735232" />
-      <entry key="H1" value="3.602809722873122" />
-      <entry key="H2" value="3.7960019335969726" />
-      <entry key="H4" value="3.896611919216548" />
-      <entry key="D1" value="3.9825723866122407" />
-      <entry key="W1" value="3.997505490191156" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.733589467060653E-144" />
+      <entry key="S5" value="6.536088785643953E-58" />
+      <entry key="S10" value="4.0958445127818515E-29" />
+      <entry key="S30" value="9.303494914025337E-10" />
+      <entry key="S60" value="7.241564077145521E-5" />
+      <entry key="M2" value="0.02100023742058788" />
+      <entry key="M5" value="0.7082429606272441" />
+      <entry key="M10" value="2.5178941952924805" />
+      <entry key="M15" value="3.929254201400818" />
+      <entry key="M30" value="6.219008623390861" />
+      <entry key="H1" value="7.869748290389711" />
+      <entry key="H2" value="8.866471942253536" />
+      <entry key="H4" value="9.414938455484592" />
+      <entry key="D1" value="9.899839567638459" />
+      <entry key="W1" value="9.985624993309191" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.10438598992854616" />
-      <entry key="MS500" value="0.6363974676379714" />
-      <entry key="S2" value="0.8931658523527604" />
-      <entry key="S5" value="0.955812804618722" />
-      <entry key="S10" value="0.9776567928660841" />
-      <entry key="S30" value="0.9933891799170581" />
-      <entry key="S60" value="1.159509952975876" />
-      <entry key="M2" value="4.0631707341594785" />
-      <entry key="M5" value="22.688999910962153" />
-      <entry key="M10" value="44.445515452231646" />
-      <entry key="M15" value="56.03973323878309" />
-      <entry key="M30" value="70.90248125497119" />
-      <entry key="H1" value="79.85087982766784" />
-      <entry key="H2" value="84.7653963693478" />
-      <entry key="H4" value="87.34136871521368" />
-      <entry key="D1" value="89.5510390166671" />
-      <entry key="W1" value="89.93571777789967" />
+      <entry key="MS100" value="1.513973873394872" />
+      <entry key="MS500" value="2.2589464032408406" />
+      <entry key="S2" value="4.8641891715088095" />
+      <entry key="S5" value="6.792839863529039" />
+      <entry key="S10" value="7.770205809468947" />
+      <entry key="S30" value="8.88121880590998" />
+      <entry key="S60" value="9.913865241453141" />
+      <entry key="M2" value="11.118990254632388" />
+      <entry key="M5" value="16.729642079202975" />
+      <entry key="M10" value="34.11610932225593" />
+      <entry key="M15" value="50.18213880009747" />
+      <entry key="M30" value="79.29018625130774" />
+      <entry key="H1" value="102.01381563778287" />
+      <entry key="H2" value="116.30087182565829" />
+      <entry key="H4" value="124.3240037524506" />
+      <entry key="D1" value="131.5063744817744" />
+      <entry key="W1" value="132.78542748900287" />
     </decayedShown>
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "Player",
+    "git-widget-placeholder": "main",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="독립실행형 플레이어.Unity 시작">
     <configuration name="유닛 테스트(배치 모드)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.4.0f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\pjw\OneDrive\Desktop\UnityGithub\Maze -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
